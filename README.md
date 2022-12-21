@@ -10,7 +10,7 @@
 - The visitors can look through a different list of foods.
 - Add or delete food into a cart
 
-## This web app is live, you can check it here: [Live demo](https://favorite-quotes.vercel.app/)
+## This web app is live, you can check it here: [Live demo](https://food-order-app-psi-blond.vercel.app/)
 
 
 ## Screenshot of the app.
